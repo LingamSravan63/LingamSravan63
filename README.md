@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/sravan-lingam-290520288/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sravan Lingam" height="30" width="40" />
   </a>
+  <a href="https://lingamsravan63.github.io/Portfolio-Website/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio Website" height="30" width="40" />
+  </a>
 </p>
 
 ---
